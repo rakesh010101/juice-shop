@@ -59,3 +59,7 @@ ngAfterViewInit () {
       tableData[i].description = tableData[i].description.replaceAll('<', '&lt;').replaceAll('>', '&gt;')
     }
   }
+
+
+
+
